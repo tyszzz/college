@@ -1,0 +1,14 @@
+#include <iostream>
+#include <conio.h>
+#include <Windows.h>
+#include <string>
+#include "Map.h"
+#include "Boss.h"
+#include "Captain.h"
+#include "Home.h"
+#include "Middle.h"
+#include "Slime.h"
+#include "Village.h"
+#include "Landing.h"
+#include "Story.h"
+#include "Gate.h"
