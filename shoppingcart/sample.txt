@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>購物車</title>
+	</head>
+	<body>
+		<?php
+			include("connection.php");
+		?>
+	</body>
+</html>
